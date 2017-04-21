@@ -3,7 +3,7 @@ title: Landing
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/pic07.jpg
-nav-menu: true
+published: false
 ---
 
 <section id="banner" class="style2">
@@ -118,3 +118,5 @@ Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris a
   <p>
 </p>
 </div>
+
+
